@@ -1,5 +1,7 @@
 [JARVIS __ Tactical Intelligence Core.md](https://github.com/user-attachments/files/33757420/JARVIS.__.Tactical.Intelligence.Core.md)# JARVIS // Tactical Intelligence Core
 
+Try Here:https://jarvis-hcbmrpsv.manus.space/
+
 JARVIS is a cinematic, voice-first tactical assistant dashboard created by **Vignesh P**. It combines a responsive holographic HUD with conversational AI, multilingual voice interaction, browser sensors, live geographical context, news awareness, camera-based object detection, and a user-owned API provider system.
 
 The project is an original futuristic interface inspired by tactical HUD design. It does not include film assets or fictional character attribution.
